@@ -1,0 +1,6 @@
+{
+  "name": "Venâncio Piscinas — Gestão",
+  "description": "Sistema completo de gestão para empresas de limpeza e manutenção de piscinas: clientes, piscinas, serviços, agendamentos, controle financeiro, comprovantes, notificações push, módulo de avaliações NPS e Chat de IA Integrado.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

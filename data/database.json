@@ -1,0 +1,123 @@
+{
+  "settings": {
+    "id": "company-1",
+    "name": "VENÂNCIO PISCINAS",
+    "company_name": "VENÂNCIO PISCINAS",
+    "subtitle": "Limpeza e Manutenção",
+    "trade_name": "Venâncio Piscinas & Tratamento d’Água",
+    "cnpj": "",
+    "document": "",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "address": "",
+    "pix_key": "",
+    "bank_name": "",
+    "bank_account": "",
+    "logo_url": "",
+    "receipt_message": "Agradecemos a confiança! Mantenha o tratamento da sua piscina em dia para garantir água sempre pura, cristalina e protegida para sua família."
+  },
+  "clients": [],
+  "pools": [],
+  "services": [
+    {
+      "id": "serv-1",
+      "name": "Limpeza Completa e Aspiração",
+      "description": "Aspiração ao fundo, escovação de paredes e fundo, peneiração de folhas e limpeza pré-filtro.",
+      "default_price": 180,
+      "estimated_duration": "1h 30min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-2",
+      "name": "Tratamento Químico e Balanço de pH",
+      "description": "Análise completa de cloro livre, pH, alcalinidade total e dureza cálcica com ajuste químico.",
+      "default_price": 140,
+      "estimated_duration": "1h 00min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-3",
+      "name": "Manutenção de Motobomba",
+      "description": "Revisão do motor, lubrificação, substituição de selo mecânico e desobstrução de rotor.",
+      "default_price": 350,
+      "estimated_duration": "2h 30min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-4",
+      "name": "Troca de Areia do Filtro",
+      "description": "Remoção de carga filtrante antiga, higienização interna da carcaça e inserção de areia especial tratada.",
+      "default_price": 480,
+      "estimated_duration": "3h 00min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-5",
+      "name": "Limpeza de Bordas e Desincrustação",
+      "description": "Aplicação de limpa-bordas neutro biodegradável para eliminação de oleosidade e sujeira incrustada.",
+      "default_price": 120,
+      "estimated_duration": "45min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-6",
+      "name": "Aplicação de Clarificante e Algicida",
+      "description": "Decantação de partículas suspensas, eliminação e prevenção de algas verdes e amarelas.",
+      "default_price": 160,
+      "estimated_duration": "1h 15min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-7",
+      "name": "Manutenção e Troca de Componentes",
+      "description": "Substituição de registros, skimmer, drenos de fundo, bocais de retorno e válvulas seletoras.",
+      "default_price": 280,
+      "estimated_duration": "2h 00min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-8",
+      "name": "Instalação de Clorador Automático / Salino",
+      "description": "Instalação mecânica e elétrica de gerador de cloro por eletrólise de sal.",
+      "default_price": 650,
+      "estimated_duration": "3h 30min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-9",
+      "name": "Tratamento de Choque (Água Verde)",
+      "description": "Supercloração de recuperação emergencial, correção drástica de alcalinidade e decantação acelerada.",
+      "default_price": 320,
+      "estimated_duration": "2h 00min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "serv-10",
+      "name": "Consultoria e Avaliação Técnica",
+      "description": "Vistoria técnica presencial com laudo de qualidade de água e dimensionamento de equipamentos.",
+      "default_price": 200,
+      "estimated_duration": "1h 00min",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    }
+  ],
+  "appointments": [],
+  "records": [],
+  "payments": [],
+  "expenses": [],
+  "feedback": [],
+  "notifications": [],
+  "deletedClientIds": [],
+  "updatedAt": "2026-09-28T16:45:00.000Z",
+  "version": 2
+}
